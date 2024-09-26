@@ -259,7 +259,7 @@ header{
 .home-text h1 {
     font-size: 2.4rem;
     text-transform: uppercase;
-    color: #fff;
+    text-color: var(--text-color);;
     margin-bottom: 1rem;
 }
 .btn {
